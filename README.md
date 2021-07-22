@@ -5,7 +5,7 @@
 ### Predictive model of PGA tour players performance to determine if they should be considered for a sponsorship or not to maximize the companies profit. 
 
 ## Business Problem:
-### Callaway wants to expand their sponsorship program to become even more known.  They would like to sponsor players who have been improving and are likely to be in the spotlight in the coming years.
+### Callaway golf team has came to us looking for new players to sponsor. They want us to analyze data and determine which players are worthy of a sponsor. In order to make a useful model predicting which players should be sponsored, we had to acknowledge that many of the top end players  already have sponsors. We determined that using improvement over the years would show the Callaway team which players are most likely to keep getting better, therefore deserve a sponsorship. 
 
 ## Data:
 ### The pgaTourData from Kaggle was used for our analysis.  This data set contains 18 columns and 526 unique players from 2010-2018.  We removed rows with missing data and filtered the money column to only include players who have made over $500000.  After this, we had 438 unique players.
