@@ -11,7 +11,7 @@
 ### The pgaTourData from Kaggle was used for our analysis.  This data set contains 18 columns and 526 unique players from 2010-2018.  We removed rows with missing data and filtered the money column to only include players who have made over $500000.  After this, we had 438 unique players.
 
 ## Comparisions:
-### We examined the correlation between different targets such as Money, Wins, and sponsorship with the features.  This helped us answer questions such as how much a player should get paid based on how they play, if a player will win a tournament, and if a player should receive a scholarship or not.
+### We examined the correlation between different targets such as Money, Wins, and Improvement.  This helped us answer questions such as how much a player should get paid based on how they play, if a player has been steadily improving, and if a player should receive a scholarship or not.
 
 ## Results:
 
