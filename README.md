@@ -30,7 +30,7 @@
 ![Money_avg_SG_total_correlation](./images/Money_avg_SG_total_correlation.png)
 ### There is a strong correlation between Money and avg SG total 
 #
-#
+![fedex_cup_point_vs_money](./images/fedex_cup_point_vs_money.png)
 
 ![Money_and_average_score_correlation](./images/Money_and_average_score_correlation.png)
 ### As average score increses Money decreses.
@@ -44,5 +44,12 @@
 ![Money_Precission_Score_Graph](./images/Money_Precission_Score_Graph.png)
 #### For our money model, multiple machine learning models were used.  The graph shows that the logistic regression model had the best training and validation scores and the least difference.
 
+![top_10_profitable_golfers_improving](./images/top_10_profitable_golfers_improving.png)
+
+![top_ten_improving_points](./images/top_ten_improving_points.png)
+
 # Conclusion:
 #### Players that showed improvement over the eight years based on score and performance should be considered for a sponsorship: the amount paid increases, and performance increases.  
+#### In conclusion, we found that a few features have a high impact on our model. Points, Money, Wins and Average SG Total. Since we want to be able to predict a amatur level player who might not have some of these statistics, we only included features that involved playing the game. This means no win, points, or money. 
+#### This way we are not only predicting players who are already at the top 
+#### We suggest that Callaway picks to sponsor a player that has Shown improvement, Made around  $500,000 in the last year, Score around 300 points in the last year. 
